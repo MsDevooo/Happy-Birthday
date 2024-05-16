@@ -1,0 +1,16 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    color: midnightblue;
+    text-align:center;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: midnightblue;
+    font-weight: 500;
+    font-style:normal;
+    text-indent: 5%;
+}
